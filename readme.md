@@ -1,6 +1,6 @@
 #SASS Snippets
 
-## A collection of snippets & functions to be used with SASS. Most snippets are to be used specifically with .scss
+## A collection of Sublime Text 2 snippets & functions to be used with SASS. Most snippets are to be used specifically with .scss
 
 ### Tab Triggers:
 
